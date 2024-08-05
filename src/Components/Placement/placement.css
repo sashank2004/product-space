@@ -101,7 +101,7 @@
 .photopluscontent{
   display: flex;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:1000px) {
   .placement-heading{
     font-size: 24px;
   }

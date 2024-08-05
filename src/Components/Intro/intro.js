@@ -1,6 +1,8 @@
 import React from 'react'
 import './intro.css';
 import Image from '../../assets/imagebackground.png'
+import ImageSlide from '../../Components/ImageSlide/imageslide'
+
 
 const Intro = () => {
   return (
@@ -21,11 +23,10 @@ const Intro = () => {
         Get Started 
        </button>
       </div>
-      <div>
-        <img className='image' src={Image}/>
-      </div>
+      <ImageSlide/>
     </div>
   )
 }
 
 export default Intro;
+

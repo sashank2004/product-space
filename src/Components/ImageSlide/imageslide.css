@@ -1,0 +1,32 @@
+
+.ImageSlide {
+  margin:20px 80px;
+}
+
+.imged{
+  width:360px;
+  height: 450px;
+}
+
+.meetourmentors{
+  background-color: transparent;
+}
+
+.meetourmentor{
+  margin-bottom: 5px;
+  width: 320px;
+  height: 110px;
+  background-color: transparent;
+}
+
+.meetour{
+  width:fit-content;
+  margin-bottom: 20px;
+}
+.shazam{
+  height: 20px;
+}
+.make{
+  border-bottom: solid;
+  border-color: #FFFFFF66;
+}
