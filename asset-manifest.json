@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/product-space/static/css/main.3dcf245b.css",
+    "main.js": "/product-space/static/js/main.514e6b1d.js",
+    "static/js/453.5e560239.chunk.js": "/product-space/static/js/453.5e560239.chunk.js",
+    "static/media/imagebackground.png": "/product-space/static/media/imagebackground.e51e6c6ed20179336712.png",
+    "static/media/image.png": "/product-space/static/media/image.8751af8c345e36084398.png",
+    "static/media/industry.png": "/product-space/static/media/industry.523505f34165f717e329.png",
+    "static/media/interview.png": "/product-space/static/media/interview.d449c5f0d7a8fe85008e.png",
+    "static/media/mentorshipimage.png": "/product-space/static/media/mentorshipimage.40cf5a1dffa84141e783.png",
+    "static/media/girlimage.png": "/product-space/static/media/girlimage.2beb5b4eedd5e4925785.png",
+    "static/media/globe.png": "/product-space/static/media/globe.f592758272e6d15fa934.png",
+    "static/media/livesession.png": "/product-space/static/media/livesession.9edf1c4eabc7d00eae37.png",
+    "static/media/triangle.png": "/product-space/static/media/triangle.97432f523eebbd6f3441.png",
+    "static/media/byjulogo.png": "/product-space/static/media/byjulogo.b0105c8980a8539e2542.png",
+    "static/media/rapido.webp": "/product-space/static/media/rapido.e6181d842b75f3868fa8.webp",
+    "static/media/groww.png": "/product-space/static/media/groww.24779642d4f3953b9f45.png",
+    "static/media/menuicon.jpg": "/product-space/static/media/menuicon.fca1253405275cf12be0.jpg",
+    "static/media/head.png": "/product-space/static/media/head.6a3a74f7ea2b0e58712e.png",
+    "static/media/logo.svg": "/product-space/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/product-space/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/product-space/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/product-space/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/product-space/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/product-space/index.html",
+    "main.3dcf245b.css.map": "/product-space/static/css/main.3dcf245b.css.map",
+    "main.514e6b1d.js.map": "/product-space/static/js/main.514e6b1d.js.map",
+    "453.5e560239.chunk.js.map": "/product-space/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dcf245b.css",
+    "static/js/main.514e6b1d.js"
+  ]
+}
