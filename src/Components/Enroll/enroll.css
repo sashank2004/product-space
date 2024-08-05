@@ -1,0 +1,35 @@
+.heading{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.heading-text{
+  font-size: 40px;
+}
+.mains{
+  display: flex;
+  justify-content: center;
+  gap:10px;
+}
+.contents{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color:#201b1b;
+  padding:40px 20px;
+}
+.first{
+  background-color: #201b1b;
+  font-size: 28px;
+  margin-bottom: 5px;;
+}
+
+.second{
+  background-color: #201b1b;
+  font-size: 20px;
+}
+@media screen and (max-width:600px){
+  .mains{
+    flex-direction: column;
+  }
+}

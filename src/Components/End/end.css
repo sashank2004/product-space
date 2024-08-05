@@ -1,0 +1,80 @@
+.end{
+  margin:40px 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.other{
+  display: flex;
+  justify-content: center;
+}
+.resources{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+  margin-right: 40px;
+}
+.productspace{
+  display: flex;
+  flex-direction: column;
+}
+.p{
+  font-size: 35px;
+  margin-bottom: 5px;
+}
+.capital{
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+.agreat{
+  font-size: 14px;
+  margin-bottom: 40px;
+}
+.copyright{
+  font-size: 11px;
+}
+.resource{
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.terms{
+  font-size: 15px;
+}
+.privacy{
+  font-size: 15px;
+}
+.refund{
+  font-size: 15px;
+}
+.contactus{
+  font-size: 15px;
+}
+.follow{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+}
+.followus{
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.linkedin,.discord{
+  font-size: 15px;
+}
+@media screen and (max-width:600px){
+  .end{
+    flex-direction: column;
+    margin:5px 5px;
+  }
+  .agreat{
+    margin-bottom: 5px;
+  }
+  .productspace{
+    margin-bottom: 10px;
+  }
+  .other{
+    justify-content: space-between;
+  }
+  .copyright{
+    margin-bottom: 30px;
+  }
+}

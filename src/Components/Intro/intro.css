@@ -1,0 +1,76 @@
+.intro{
+  display: flex;
+  justify-content: space-between;
+}
+.intro-main{
+  margin:154px 135px;
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+  height: 180px;
+}
+.empower{
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 44px;
+}
+.unlock{
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24.3px;
+}
+.reviews{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  margin-bottom: 12px;
+}
+.number{
+  color: #FFC303;
+}
+.book{
+  color:#FFC303;
+  height: 50px;
+  border-radius: 56px;
+  border:solid;
+  border-width: 1px;
+  padding:5px;
+  margin-bottom: 6px;
+}
+
+.getstarted{
+  background-color: #FFC303;
+  color:#211806;
+  height: 50px;
+  border-radius: 56px;
+  border-width: 1px;
+  padding:5px;
+}
+
+.image{
+  width: 500px;
+  height: 450px;
+  margin-top:100px;
+}
+@media screen and (max-width:1050px) {
+  .intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .intro-main{
+    margin:0;
+    height: 300px;  
+  }
+  .empower{
+    font-size: 32px;
+  }
+
+}
+@media screen and (max-width:480px) {
+  .intro-main{
+   width: 100%;  
+   height: 100%;
+  }
+}

@@ -1,0 +1,27 @@
+.newsletter{
+  display: flex;
+  flex-direction: column;
+  margin:20px 40px;
+}
+.subscribe{
+  font-size: 40px;
+}
+.subs{
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+.emaila{
+  height: 55px;
+  width: 50rem;
+  border-style: solid;
+  background-color: #EEEEEE1A;
+}
+.email{
+  display: flex;
+  width: 100%;
+}
+.join{
+  color: #FFC303;
+  background-color: #323232;
+  width: 10rem;
+}
